@@ -1,2 +1,2 @@
 # Smart-Light-Project
-⚡️ An IoT project to control a 4-channel relay using ESP8266 and the Blynk app.
+🎓 An educational project for the "Electrical Goes to School" event by the [Your Division Name] to create a smart home control system.
